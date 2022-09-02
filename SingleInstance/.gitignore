@@ -1,0 +1,12 @@
+*/terraform.tfvars
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*/.terraform
+*.key
+*.ppk
+privatekey
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+*.terraform*
+SingleInstance\.terraform\*
